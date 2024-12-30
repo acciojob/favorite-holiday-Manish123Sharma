@@ -1,4 +1,7 @@
 /*  your css code here. If applicable */
-.detail{
-	font-weight: 600;
+.place{
+	font-weight: bold;
+}
+.food{
+	font-style: italic;
 }
